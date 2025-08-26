@@ -1,0 +1,1 @@
+xelatex -output-directory ./public cv.tex --noconfirm
